@@ -1,7 +1,7 @@
 # PollNow 🗳️
 
 > **Create. Share. Vote.**  
-> Create beautiful polls in seconds and get answers instantly — zero sign-up required.
+> Create beautiful polls in seconds and get answers instantly.
 
 ---
 
