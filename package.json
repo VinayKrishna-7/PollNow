@@ -1,0 +1,28 @@
+{
+  "name": "pollnow",
+  "version": "1.0.0",
+  "description": "PollNow — Modern Anonymous Polling Application (MERN Stack)",
+  "private": true,
+  "scripts": {
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "build:client": "cd client && npm run build",
+    "install:server": "cd server && npm install",
+    "install:client": "cd client && npm install --legacy-peer-deps",
+    "install:all": "npm run install:server && npm run install:client",
+    "start": "cd server && npm start"
+  },
+  "keywords": [
+    "mern",
+    "polling",
+    "voting",
+    "mongodb",
+    "express",
+    "react",
+    "nodejs",
+    "tailwind",
+    "saas"
+  ],
+  "author": "PollNow",
+  "license": "MIT"
+}
