@@ -54,23 +54,3 @@ npm run install:all
   VITE_API_URL=http://localhost:5000/api
   ```
 
-### 4. Start the Application
-
-**Start the Backend API:**
-```bash
-cd server
-npm start
-```
-*(Runs at `http://localhost:5000`)*
-
-**Start the Frontend:**
-```bash
-cd client
-npm run dev
-```
-*(Runs at `http://localhost:5173`)*
-
----
-
-## 📄 License
-MIT License. Free to use and modify.
