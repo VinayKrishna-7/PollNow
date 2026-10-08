@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 About the Project
+## About the Project
 
 **PollNow** is an anonymous polling web application built with the **MERN stack** (MongoDB, Express, React, Node.js). 
 
@@ -21,14 +21,14 @@ It removes all friction from online polling:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React 19, Vite, React Router, Tailwind CSS, Framer Motion, Recharts, Lucide React
 - **Backend**: Node.js, Express.js, MongoDB, Mongoose, Helmet, Express Rate Limit, Nanoid
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 ### 1. Prerequisites
 - [Node.js](https://nodejs.org/) (v18+)
